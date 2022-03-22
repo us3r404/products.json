@@ -1,1 +1,3 @@
-[{"id":1,"product":"Laptop", "category":"Electronics","Picture":"https://disease.sh/assets/img/flags/af.png"}]
+[{
+  "id":1,"product":"Laptop", "category":"Electronics", "Picture":"https://disease.sh/assets/img/flags/af.png"
+}]
