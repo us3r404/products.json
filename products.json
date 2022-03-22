@@ -1,7 +1,7 @@
 [
   {
   "id":1,"product":"Laptop", "category":"Electronics", "Picture":"https://disease.sh/assets/img/flags/af.png"
-  }
+  },
   {
   "id":2,"product":"Cellphone", "category":"Electronics", "Picture":"https://disease.sh/assets/img/flags/af.png"
   }
