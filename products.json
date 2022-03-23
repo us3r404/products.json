@@ -24,7 +24,7 @@
     "id":8, "product":"STOOL MINI CHAIR", "category":"Furnitures", "price":"₱240", "picture":"assets/images/product_08.jpg"
   },
   {
-    "id":9, "product":" TV RACK CABINET", "category":"Furnitures", "price":"₱2,099", "picture":"assets/images/product_09.jpg"
+    "id":9, "product":"TV RACK CABINET", "category":"Furnitures", "price":"₱2,099", "picture":"assets/images/product_09.jpg"
   },
   {
     "id":10, "product":"SMALL ROUND COFFEE TABLE", "category":"Furnitures", "price":"₱321", "picture":"assets/images/product_10.jpg"
