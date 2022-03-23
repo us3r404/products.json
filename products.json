@@ -3,6 +3,6 @@
   "id":1,"product":"HP 14 - CK018S", "category":"Electronics", "price":"₱25,000", "picture":"assets/images/product_01.jpg"
   },
   {
-  "id":2,"product":"XIAOMI 9 PRO 128GB", "category":"Electronics", "price":"₱1500", "picture":"assets/images/product_02.jpg"
+  "id":2,"product":"XIAOMI 9 PRO 128GB", "category":"Electronics", "price":"₱1,500", "picture":"assets/images/product_02.jpg"
   }
 ]
