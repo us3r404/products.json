@@ -1,6 +1,6 @@
 [
   {
-  "id":1,"product":"Laptop", "category":"Electronics", "price":"1500 Php", "picture":"assets/images/product_01.jpg"
+  "id":1,"product":"Laptop", "category":"Electronics", "price":"21,000 Php", "picture":"assets/images/product_01.jpg"
   },
   {
   "id":2,"product":"Cellphone", "category":"Electronics", "price":"1500 Php", "picture":"assets/images/product_01.jpg"
