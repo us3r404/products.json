@@ -1,8 +1,8 @@
 [
   {
-  "id":1,"product":"Tablet", "category":"Electronics", "Picture":"https://disease.sh/assets/img/flags/af.png"
+  "id":1,"product":"Laptop", "category":"Electronics", "price":"1500 Php", "Picture":"assets/images/product_01.jpg"
   },
   {
-  "id":2,"product":"Cellphone", "category":"Electronics", "Picture":"https://disease.sh/assets/img/flags/af.png"
+  "id":2,"product":"Cellphone", "category":"Electronics", "price":"1500 Php", "Picture":"assets/images/product_01.jpg"
   }
 ]
