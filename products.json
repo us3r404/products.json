@@ -60,18 +60,18 @@
     "id":20, "product":"DRESS FOR WOMEN", "category":"Apparel", "price":"₱1,500", "picture":"assets/images/product_20.jpg"
   },
   {
-    "id":21, "product":"ENERVON MULTI-VITAMINS", "category":"Health", "price":"₱1,500", "picture":"assets/images/product_21.jpg"
+    "id":21, "product":"ENERVON MULTI-VITAMINS", "category":"Health", "price":"₱400", "picture":"assets/images/product_21.jpg"
   },
   {
-    "id":22, "product":"CENTRUM ADVANCE", "category":"Health", "price":"₱1,500", "picture":"assets/images/product_22.jpg"
+    "id":22, "product":"CENTRUM ADVANCE", "category":"Health", "price":"₱550", "picture":"assets/images/product_22.jpg"
   },
   {
-    "id":23, "product":"VIRGIN COCONUT OIL", "category":"Health", "price":"₱1,500", "picture":"assets/images/product_23.jpg"
+    "id":23, "product":"VIRGIN COCONUT OIL", "category":"Health", "price":"₱350", "picture":"assets/images/product_23.jpg"
   },
   {
-    "id":24, "product":"DIABETISOL", "category":"Health", "price":"₱1,500", "picture":"assets/images/product_24.jpg"
+    "id":24, "product":"DIABETISOL", "category":"Health", "price":"₱670", "picture":"assets/images/product_24.jpg"
   },
   {
-    "id":25, "product":"LIVERAIDE CAPSUL", "category":"Health", "price":"₱1,500", "picture":"assets/images/product_25.jpg"
+    "id":25, "product":"LIVERAIDE CAPSUL", "category":"Health", "price":"₱480", "picture":"assets/images/product_25.jpg"
   }
 ]
