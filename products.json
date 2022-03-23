@@ -18,7 +18,7 @@
     "id":6, "product":"HOME OFFICE TABLE", "category":"Furnitures", "price":"₱500", "picture":"assets/images/product_06.jpg"
   },
   {
-    "id":7, "product":"DISH RACK DRAINER STORAGE", "category":"Furnitures", "price":"₱625", "picture":"assets/images/product_07.jpg"
+    "id":7, "product":"DISH RACK STORAGE", "category":"Furnitures", "price":"₱625", "picture":"assets/images/product_07.jpg"
   },
   {
     "id":8, "product":"STOOL MINI CHAIR", "category":"Furnitures", "price":"₱240", "picture":"assets/images/product_08.jpg"
@@ -27,6 +27,6 @@
     "id":9, "product":" TV RACK CABINET", "category":"Furnitures", "price":"₱2,099", "picture":"assets/images/product_09.jpg"
   },
   {
-    "id":10, "product":"SMALL ROUND COFFEE TABLE", "category":"Furnitures", "price":"₱321", "picture":"assets/images/product_010.jpg"
+    "id":10, "product":"SMALL ROUND COFFEE TABLE", "category":"Furnitures", "price":"₱321", "picture":"assets/images/product_10.jpg"
   }
 ]
