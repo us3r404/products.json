@@ -28,5 +28,20 @@
   },
   {
     "id":10, "product":"SMALL ROUND COFFEE TABLE", "category":"Furnitures", "price":"₱321", "picture":"assets/images/product_10.jpg"
+  },
+  {
+    "id":11, "product":"V6 MINI DRIVING LIGHT", "category":"Motors", "price":"₱850", "picture":"assets/images/product_11.jpg"
+  },
+  {
+    "id":12, "product":"PIAA DUAL HORN", "category":"Motors", "price":"700", "picture":"assets/images/product_12.jpg"
+  },
+  {
+    "id":13, "product":"TWO WAY ALARM SYSTEM", "category":"Motors", "price":"₱600", "picture":"assets/images/product_13.jpg"
+  },
+  {
+    "id":14, "product":"TOP 1 OIL 1L", "category":"Motors", "price":"₱350", "picture":"assets/images/product_14.jpg"
+  },
+  {
+    "id":15, "product":"28MM KEIHIN CARB", "category":"Motors", "price":"₱1,250", "picture":"assets/images/product_15.jpg"
   }
 ]
