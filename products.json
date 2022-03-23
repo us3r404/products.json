@@ -1,77 +1,77 @@
 [
   {
-    "id":1 ,"product":"HP 14 - CK018S", "category":"Electronics", "price":"₱25,000", "picture":"assets/images/product_01.jpg"
+    "id":1 ,"product":"HP 14 - CK018S", "category":"Electronics", "price":"₱25,000", "picture":"resources/images/product_01.jpg"
   },
   {
-    "id":2, "product":"XIAOMI 9 PRO 128GB", "category":"Electronics", "price":"₱9,500", "picture":"assets/images/product_02.jpg"
+    "id":2, "product":"XIAOMI 9 PRO 128GB", "category":"Electronics", "price":"₱9,500", "picture":"resources/images/product_02.jpg"
   },
   {
-    "id":3, "product":"2TB SANDISK BACKUP PRO", "category":"Electronics", "price":"₱3,500", "picture":"assets/images/product_03.jpg"
+    "id":3, "product":"2TB SANDISK BACKUP PRO", "category":"Electronics", "price":"₱3,500", "picture":"resourcesresourcesresources/images/product_03.jpg"
   },
   {
-    "id":4, "product":"BOSE HI-FI SPEAKER", "category":"Electronics", "price":"₱1,500", "picture":"assets/images/product_04.jpg"
+    "id":4, "product":"BOSE HI-FI SPEAKER", "category":"Electronics", "price":"₱1,500", "picture":"resourcesresources/images/product_04.jpg"
   },
   {
-    "id":5, "product":"LG 50' CURVE TV", "category":"Electronics", "price":"₱35,000", "picture":"assets/images/product_05.jpg"
+    "id":5, "product":"LG 50' CURVE TV", "category":"Electronics", "price":"₱35,000", "picture":"resourcesresources/images/product_05.jpg"
   },
   {
-    "id":6, "product":"HOME OFFICE TABLE", "category":"Furnitures", "price":"₱500", "picture":"assets/images/product_06.jpg"
+    "id":6, "product":"HOME OFFICE TABLE", "category":"Furnitures", "price":"₱500", "picture":"resourcesresources/images/product_06.jpg"
   },
   {
-    "id":7, "product":"DISH RACK STORAGE", "category":"Furnitures", "price":"₱625", "picture":"assets/images/product_07.jpg"
+    "id":7, "product":"DISH RACK STORAGE", "category":"Furnitures", "price":"₱625", "picture":"resourcesresources/images/product_07.jpg"
   },
   {
-    "id":8, "product":"STOOL MINI CHAIR", "category":"Furnitures", "price":"₱240", "picture":"assets/images/product_08.jpg"
+    "id":8, "product":"STOOL MINI CHAIR", "category":"Furnitures", "price":"₱240", "picture":"resourcesresources/images/product_08.jpg"
   },
   {
-    "id":9, "product":"TV RACK CABINET", "category":"Furnitures", "price":"₱2,099", "picture":"assets/images/product_09.jpg"
+    "id":9, "product":"TV RACK CABINET", "category":"Furnitures", "price":"₱2,099", "picture":"resourcesresources/images/product_09.jpg"
   },
   {
-    "id":10, "product":"SMALL ROUND COFFEE TABLE", "category":"Furnitures", "price":"₱321", "picture":"assets/images/product_10.jpg"
+    "id":10, "product":"SMALL ROUND COFFEE TABLE", "category":"Furnitures", "price":"₱321", "picture":"resourcesresources/images/product_10.jpg"
   },
   {
-    "id":11, "product":"V6 MINI DRIVING LIGHT", "category":"Motors", "price":"₱850", "picture":"assets/images/product_11.jpg"
+    "id":11, "product":"V6 MINI DRIVING LIGHT", "category":"Motors", "price":"₱850", "picture":"resourcesresources/images/product_11.jpg"
   },
   {
-    "id":12, "product":"PIAA DUAL HORN", "category":"Motors", "price":"700", "picture":"assets/images/product_12.jpg"
+    "id":12, "product":"PIAA DUAL HORN", "category":"Motors", "price":"700", "picture":"resourcesresources/images/product_12.jpg"
   },
   {
-    "id":13, "product":"TWO WAY ALARM SYSTEM", "category":"Motors", "price":"₱600", "picture":"assets/images/product_13.jpg"
+    "id":13, "product":"TWO WAY ALARM SYSTEM", "category":"Motors", "price":"₱600", "picture":"resourcesresources/images/product_13.jpg"
   },
   {
-    "id":14, "product":"TOP 1 OIL 1L", "category":"Motors", "price":"₱350", "picture":"assets/images/product_14.jpg"
+    "id":14, "product":"TOP 1 OIL 1L", "category":"Motors", "price":"₱350", "picture":"resourcesresources/images/product_14.jpg"
   },
   {
-    "id":15, "product":"28MM KEIHIN CARB", "category":"Motors", "price":"₱1,250", "picture":"assets/images/product_15.jpg"
+    "id":15, "product":"28MM KEIHIN CARB", "category":"Motors", "price":"₱1,250", "picture":"resourcesresources/images/product_15.jpg"
   },
   {
-    "id":16, "product":"JEANS FOR MEN", "category":"Apparels", "price":"₱550", "picture":"assets/images/product_16.jpg"
+    "id":16, "product":"JEANS FOR MEN", "category":"Apparels", "price":"₱550", "picture":"resourcesresources/images/product_16.jpg"
   },
   {
-    "id":17, "product":"CLASSIC COAT FOR MEN", "category":"Apparels", "price":"₱1,250", "picture":"assets/images/product_17.jpg"
+    "id":17, "product":"CLASSIC COAT FOR MEN", "category":"Apparels", "price":"₱1,250", "picture":"resourcesresources/images/product_17.jpg"
   },
   {
-    "id":17, "product":"MEN'S MINIMALIST TSHIRT", "category":"Apparels", "price":"₱350", "picture":"assets/images/product_18.jpg"
+    "id":17, "product":"MEN'S MINIMALIST TSHIRT", "category":"Apparels", "price":"₱350", "picture":"resourcesresources/images/product_18.jpg"
   },
   {
-    "id":19, "product":"TSHIRT FOR WOMEN", "category":"Apparels", "price":"₱450", "picture":"assets/images/product_19.jpg"
+    "id":19, "product":"TSHIRT FOR WOMEN", "category":"Apparels", "price":"₱450", "picture":"resources/images/product_19.jpg"
   },
   {
-    "id":20, "product":"DRESS FOR WOMEN", "category":"Apparels", "price":"₱1,500", "picture":"assets/images/product_20.jpg"
+    "id":20, "product":"DRESS FOR WOMEN", "category":"Apparels", "price":"₱1,500", "picture":"resources/images/product_20.jpg"
   },
   {
-    "id":21, "product":"ENERVON MULTI-VITAMINS", "category":"Health", "price":"₱400", "picture":"assets/images/product_21.jpg"
+    "id":21, "product":"ENERVON MULTI-VITAMINS", "category":"Health", "price":"₱400", "picture":"resources/images/product_21.jpg"
   },
   {
-    "id":22, "product":"CENTRUM ADVANCE", "category":"Health", "price":"₱550", "picture":"assets/images/product_22.jpg"
+    "id":22, "product":"CENTRUM ADVANCE", "category":"Health", "price":"₱550", "picture":"resources/images/product_22.jpg"
   },
   {
-    "id":23, "product":"VIRGIN COCONUT OIL", "category":"Health", "price":"₱350", "picture":"assets/images/product_23.jpg"
+    "id":23, "product":"VIRGIN COCONUT OIL", "category":"Health", "price":"₱350", "picture":"resources/images/product_23.jpg"
   },
   {
-    "id":24, "product":"DIABETISOL", "category":"Health", "price":"₱670", "picture":"assets/images/product_24.jpg"
+    "id":24, "product":"DIABETISOL", "category":"Health", "price":"₱670", "picture":"resources/images/product_24.jpg"
   },
   {
-    "id":25, "product":"LIVERAIDE CAPSUL", "category":"Health", "price":"₱480", "picture":"assets/images/product_25.jpg"
+    "id":25, "product":"LIVERAIDE CAPSUL", "category":"Health", "price":"₱480", "picture":"resourcess/images/product_25.jpg"
   }
 ]
