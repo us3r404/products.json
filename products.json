@@ -12,6 +12,6 @@
     "id":4,"product":"BOSE HI-FI SPEAKER", "category":"Electronics", "price":"₱1,500", "picture":"assets/images/product_04.jpg"
   },
   {
-    "id":5,"product":"LG 50 INCH CURVE SMART TV", "category":"Electronics", "price":"₱35,000", "picture":"assets/images/product_05.jpg"
+    "id":5,"product":"LG 50'", "category":"Electronics", "price":"₱35,000", "picture":"assets/images/product_05.jpg"
   }
 ]
